@@ -1,0 +1,23 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- Icons -->
+        <file>resources/icons/connect.png</file>
+        <file>resources/icons/disconnect.png</file>
+        <file>resources/icons/refresh.png</file>
+        <file>resources/icons/save.png</file>
+        <file>resources/icons/clear.png</file>
+        <file>resources/icons/settings.png</file>
+        
+        <!-- Stylesheets -->
+        <file>resources/styles/dark.qss</file>
+        <file>resources/styles/light.qss</file>
+        
+        <!-- Translations -->
+        <file>resources/translations/SerialMaster_zh_CN.qm</file>
+        <file>resources/translations/SerialMaster_en_US.qm</file>
+        
+        <!-- Configuration -->
+        <file>resources/config/default.json</file>
+    </qresource>
+</RCC>

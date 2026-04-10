@@ -1,0 +1,81 @@
+```
+# Build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+
+# Qt/C++ specific
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qmlproject.user
+*.vcxproj.filters
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+obj/
+release/
+debug/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.manifest
+install_manifest.txt
+Makefile
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+*.log
+*.lo
+*.la
+
+# Temp files
+*.tmp
+*.temp
+*~
+.swp
+.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Editors
+.vscode/
+.idea/
+```
